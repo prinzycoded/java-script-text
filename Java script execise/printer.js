@@ -1,4 +1,4 @@
-let rows = 5;
+let rows = 3;
 
 for (let i = 0; i < rows; i++) {
     let line = "";
